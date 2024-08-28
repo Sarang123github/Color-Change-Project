@@ -1,0 +1,36 @@
+span {
+  display: block;
+}
+.button{
+
+
+    border:solid  #212121 2px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    
+    
+    }
+    
+    .canvase{
+         
+      margin: 100px auto 100px;
+      width: 80%;
+      text-align: center;
+}
+    
+    
+    
+    #grey {
+      background: grey;
+    }
+    
+    #red {
+      background: red;
+    }
+    #blue {
+      background: blue;
+    }
+    #yellow {
+      background: yellow;
+    }
